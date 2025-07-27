@@ -1,5 +1,5 @@
 🏎️ Jogo de Carro 3D criado em JavaScript, CSS e HTML
-Este é um jogo de corrida em 3D desenvolvido com JavaScript, HTML5 e CSS, com o objetivo de proporcionar uma experiência simples, divertida e jogável diretamente no navegador. O jogo utiliza a canvas API do HTML para renderização gráfica e lida com eventos de teclado para controlar o carro.
+ Com o objetivo de proporcionar uma experiência simples, divertida e jogável diretamente no navegador. O jogo utiliza a canvas API do HTML para renderização gráfica e lida com eventos de teclado para controlar o carro.
 O jogador assume o controle de um carro de corrida que deve desviar de obstáculos, coletar bônus (como combustível ou pontos) e tentar alcançar a maior pontuação possível antes que o jogo termine.
 
 ---
