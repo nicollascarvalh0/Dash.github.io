@@ -36,11 +36,6 @@ Abra o arquivo index.html com seu navegador ou use uma extensão de servidor loc
 
 ---
 
-📷 Captura de Tela
-<p align="center"> <img src="assets/screenshot.png" width="500" alt="Tela do jogo de carro" /> </p>
-
----
-
 🔊 Recursos Visuais e Sonoros
 Todos os assets visuais e sonoros utilizados são livres para uso pessoal e educacional, provenientes de fontes como:
 -Kenney.nl
