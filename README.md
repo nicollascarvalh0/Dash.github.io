@@ -5,9 +5,9 @@ O jogador assume o controle de um carro de corrida que deve desviar de obstácul
 ---
 
 ## ⚙️ Tecnologias Utilizadas
-HTML5 Canvas: Para renderizar o jogo em tempo real.
+HTML Canvas: Para renderizar o jogo em tempo real.
 JavaScript Puro (Vanilla JS): Para lógica de jogo, colisões, pontuação e movimentação.
-CSS3: Para estilização do layout e HUD.
+CSS: Para estilização do layout e HUD.
 Assets: Imagens e sons livres de direitos autorais para ambientação.
 
 ---
